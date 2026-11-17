@@ -19,9 +19,12 @@ media and volume keys. It is one small program that sits quietly in the system t
 
 ## Getting started
 
-1. Plug the Magic Keyboard in with its cable.
-2. Run `MagicAdapter.exe`. The settings window opens and an icon appears in the system tray.
-3. Close the window whenever you like. The app keeps running in the tray.
+1. Download `MagicAdapter.exe` from the
+   [latest release](https://github.com/JamesChu-byte337/magic-adapter/releases/latest).
+   There is nothing to install.
+2. Plug the Magic Keyboard in with its cable.
+3. Run `MagicAdapter.exe`. The settings window opens and an icon appears in the system tray.
+4. Close the window whenever you like. The app keeps running in the tray.
 
 To go back to the normal Windows layout, quit the app (the **Quit adapter** button, or
 right-click the tray icon and choose **Quit**).
