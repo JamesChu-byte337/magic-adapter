@@ -1,0 +1,2 @@
+// Only the application manifest lives here (DPI awareness, modern system dialogs).
+1 24 "app.manifest"
